@@ -50,6 +50,5 @@ npm run dev
 \`\`\`
 
 ## 👥 Thành viên nhóm
-1. Nguyễn Văn A - B21DCCNxxx
-2. Trần Văn B - B21DCCNxxx
-3. Lê Thị C - B21DCCNxxx
+1. Giang Hoàng Long - MSV: B22DCPT145
+2. Nguyễn Ngọc Minh - MSV: B22DCPT169
