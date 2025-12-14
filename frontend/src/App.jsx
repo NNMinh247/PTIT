@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom';
 
 import Lobby from './pages/Lobby.jsx';
-import PtitHD from './pages/PtitHD.jsx';
+import PtitHD from './pages/PTITHD.jsx';
 import PtitNT from './pages/PtitNT.jsx';
 
 function App() {
